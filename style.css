@@ -27,4 +27,17 @@ body{
     width: 100%;
     font-size: 32px;
 }
+.titulo-principal span{
+    color: var(--verde);
+}
+.botao{
+    font-family: "lobster", sans-serif;
+    background-color:var(--roxo-claro);
+    color:var(--branco);
+    display: flex;
+    justify-content: center;
+    padding: 1em;
+
+}
+
 
