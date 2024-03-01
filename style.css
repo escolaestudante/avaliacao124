@@ -6,3 +6,7 @@
     --vermelho-claro:rgba(245, 103, 129, 0.5);
     --verde:rgba(125, 242, 19, 0.5);
 }
+
+body{
+    background-color:var(--cor-de-fundo);
+}
